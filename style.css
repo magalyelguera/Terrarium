@@ -13,7 +13,7 @@ h2{
 
 }
 
-#left-container{
+/*#left-container{
 	display: flex;
 	justify-content: flex-start;
 }
@@ -28,7 +28,7 @@ h2{
 	grid-template-columns: 60% 60%;
 	grid-template-rows: 30% 30% 30%;
 	
-}
+}*/
 .jar-walls {
 	display: flex;
 	justify-content: center;
